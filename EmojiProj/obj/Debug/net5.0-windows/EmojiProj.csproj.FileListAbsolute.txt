@@ -1,0 +1,38 @@
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.exe
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.deps.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.runtimeconfig.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.runtimeconfig.dev.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\ref\EmojiProj.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.pdb
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.AssemblyReference.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.HomeForm.resources
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.Properties.Resources.resources
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.GenerateResource.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.AssemblyInfoInputs.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.AssemblyInfo.cs
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.CoreCompileInputs.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\ref\EmojiProj.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.pdb
+D:\SchoolCourses\AEC_2022_Winter\c#\week10\smileyFace\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.genruntimeconfig.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.exe
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.deps.json
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.runtimeconfig.json
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.runtimeconfig.dev.json
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.dll
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\bin\Debug\net5.0-windows\EmojiProj.pdb
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.AssemblyReference.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.HomeForm.resources
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.Properties.Resources.resources
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.GenerateResource.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.AssemblyInfoInputs.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.AssemblyInfo.cs
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.csproj.CoreCompileInputs.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.dll
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\refint\EmojiProj.dll
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.pdb
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\EmojiProj.genruntimeconfig.cache
+C:\Users\trinn\OneDrive\Desktop\New folder\EmojiApp\EmojiProj\obj\Debug\net5.0-windows\ref\EmojiProj.dll
