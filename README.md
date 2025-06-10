@@ -21,5 +21,5 @@ Features
   Object-oriented setup with separate classes for emoji logic, UI, and sprite rendering
 
 <p align="center">
-  <img src="" width="35%">
+  <img src="https://github.com/GestaltFactory/EmojiApp/blob/main/01.PNG" width="35%">
 </p>
